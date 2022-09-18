@@ -47,6 +47,10 @@ body {
 	margin-left: 0.5em;
 }
 
+@media (max-width: 960px) {
+  nav { display: inline-block; }
+}
+
 tt {
     background: #ffffdd;
 }
