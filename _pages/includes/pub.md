@@ -3,7 +3,7 @@
 # 📝 Publications
 ##  2026
 
-- [Dcreg: Decoupled characterization for efficient degenerate lidar registration](https://arxiv.org/abs/2509.06285) 
+ - [Dcreg: Decoupled characterization for efficient degenerate lidar registration](https://arxiv.org/abs/2509.06285) 
    <div class="pub-links">
    <details class="bibtex-details">
      <summary class="bibtex-button">[BibTeX]</summary>
@@ -42,10 +42,9 @@
    <a href="https://arxiv.org/pdf/2601.01188" class="pub-link">[PDF]</a>
    </div>
    
-   *IEEE Transactions on Robotics **(TRO)***
+   *IEEE Transactions on Robotics **(T-RO)***
   
    Zhiwei Huang, Yanwei Fu, Yi Zhou, **<u>Xieyuanli Chen</u>**, Qijun Chen, Rui Fan
-
 
 - [Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs](https://ieeexplore.ieee.org/abstract/document/11397841) 
   <div class="pub-links">
