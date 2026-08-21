@@ -90,6 +90,30 @@
   
    Junyi Ma, Wentao Bao, Jingyi Xu, Guanzhong Sun, Yu Zheng, Erhang Zhang, **<u>Xieyuanli Chen</u>**, Hesheng Wang
 
+- [OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Fused Geometric and Semantic Guidance](https://www.sciencedirect.com/science/article/pii/S1566253526004409) 
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{liao2026if,
+      title={OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Fused Geometric and Semantic Guidance}, 
+      author={Liao, Youqi and Chen, Xieyuanli and Kang, Shuhao and Li, Jianping and Dong, Zhen and Fan, Hongchao and Yang, Bisheng},
+      journal={Information Fusion}, 
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2411.08665" class="pub-link">[PDF]</a>
+   <a href="https://whu-usi3dv.github.io/OSMLoc/" class="pub-link">[Web]</a>
+   <a href="https://github.com/WHU-USI3DV/OSMLoc">
+    <img src="https://img.shields.io/github/stars/WHU-USI3DV/OSMLoc?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *Information Fusion  **(Inf. Fusion)***
+  
+   Youqi Liao, **<u>Xieyuanli Chen*</u>**, Shuhao Kang, Jianping Li, Zhen Dong, Hongchao Fan, Bisheng Yang
+
  - [Coupling Structural Descriptors With a Novel Semantic Graph Matching Approach for LiDAR Loop Detection](https://ieeexplore.ieee.org/abstract/document/11454605) 
    <div class="pub-links">
    <details class="bibtex-details">
@@ -133,6 +157,47 @@
 
    Longwen Chen, **<u>Xieyuanli Chen</u>**, Junpeng Xu, Fangge Cui, Ke Gui, Chuang Cheng, Huimin Lu
 
+- [Multimodal Place Recognition With Feed-Forward Gaussian and Mamba-Based Enhancement in Mixed Traffic Environments](https://ieeexplore.ieee.org/document/11563912)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{xu2026tits,
+      title={Multimodal Place Recognition With Feed-Forward Gaussian and Mamba-Based Enhancement in Mixed Traffic Environments},
+      author={Xu, Jingyi and Qi, Zhangshuo and Jiao, Xianyun and Tian, Qijian and Yan, Zhongmiao and Wu, Qi and Chen, Xieyuanli and Pei, Ling},
+      journal={IEEE Transactions on Intelligent Transportation Systems},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11563912" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Intelligent Transportation Systems **(T-ITS)***
+  
+   Jingyi Xu, Zhangshuo Qi, Xianyun Jiao, Qijian Tian, Zhongmiao Yan, Qi Wu, **<u>Xieyuanli Chen</u>**, Ling Pei
+
+- [RMT-PR: A Reverse-View Mamba-Transformer With Cross-View Adaptive Feature Fusion for LiDAR Place Recognition](https://ieeexplore.ieee.org/document/11640899)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{luo2026tits,
+      title={RMT-PR: A Reverse-View Mamba-Transformer With Cross-View Adaptive Feature Fusion for LiDAR Place Recognition},
+      author={Luo, Kan and Yu, Hongshan and Yang, Shuang and Wang, Jingwen and Wang, Yaonan and Civera, Javier and Chen, Xieyuanli},
+      journal={IEEE Transactions on Intelligent Transportation Systems},
+      year={2026},
+      doi={10.1109/TITS.2026.3709652}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11640899" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Transactions on Intelligent Transportation Systems **(T-ITS)***
+  
+   Kan Luo, Hongshan Yu, Shuang Yang, Jingwen Wang, Yaonan Wang, Javier Civera, **<u>Xieyuanli Chen</u>**
+   
  - [An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather](https://ieeexplore.ieee.org/abstract/document/11458670) 
    <div class="pub-links">
    <details class="bibtex-details">
@@ -300,6 +365,30 @@
   
    Zhijian He, Feifei Liu, Yuwei Li, Zhonghao Cai, Zhanpeng Luo, Jintao Cheng, **<u>Xieyuanli Chen</u>**, XiaoyuTang
 
+- [In-Training Masked Reconstruction as Structured Representation Augmentation for Collaboration-Aware V2X Perception](https://ieeexplore.ieee.org/document/11623678)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@ARTICLE{wang2026ral,
+      title={In-Training Masked Reconstruction as Structured Representation Augmentation for Collaboration-Aware V2X Perception},
+      author={Wang, Benwu and Li, Xu and Chen, Xieyuanli and Kong, Dong and Che, Haoyang and Zhu, Wenkai and Wang, Zihang and Ni, Peizhou},
+      journal={IEEE Robotics and Automation Letters},
+      volume={11},
+      number={9},
+      pages={10999--11006},
+      year={2026},
+      doi={10.1109/LRA.2026.3717191}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/iel8/7083369/7339444/11623678.pdf" class="pub-link">[PDF]</a>
+   </div>
+   
+   *IEEE Robotics and Automation Letters **(RA-L)***
+  
+   Benwu Wang, Xu Li, **<u>Xieyuanli Chen</u>**, Dong Kong, Haoyang Che, Wenkai Zhu, Zihang Wang, Peizhou Ni
+ 
  - [Guiding Multimodal LLMs for Efficient Visual Place Recognition](https://www.sciencedirect.com/science/article/pii/S0167865526000413) 
    <div class="pub-links">
    <details class="bibtex-details">
@@ -386,6 +475,49 @@
    *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR)***
   
    Shuhao Kang, Youqi Liao, Peijie Wang, Wenlong Liao, Qilin Zhang, Benjamin Busam, **<u>Xieyuanli Chen</u>**, Yun Liu
+
+- [GeoLoco: Leveraging 3D Geometric Priors from Visual Foundation Model for Robust RGB-Only Humanoid Locomotion](https://arxiv.org/abs/2603.07624)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{liu2026iros,
+      title={GeoLoco: Leveraging 3D Geometric Priors from Visual Foundation Model for Robust RGB-Only Humanoid Locomotion},
+      author={Liu, Yufei and Chen, Xieyuanli and Pan, Hainan and Shi, Chenghao and Chen, Yanjie and Huang, Kaihong and Zeng, Zhiwen and Lu, Huimin},
+      booktitle={In Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://arxiv.org/pdf/2603.07624" class="pub-link">[PDF]</a>
+   <a href="https://github.com/liuyufei-nubot/GeoLoco">
+    <img src="https://img.shields.io/github/stars/liuyufei-nubot/GeoLoco?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *IEEE/RSJ International Conference on Intelligent Robots and Systems **(IROS)***
+  
+   Yufei Liu, **<u>Xieyuanli Chen</u>**, Hainan Pan, Chenghao Shi, Yanjie Chen, Kaihong Huang, Zhiwen Zeng, Huimin Lu
+
+- [Integrating Vision-Language Planning and Closed-Loop Control for Robust Bimanual Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/11618061)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{chen2026icca,
+      title={Integrating Vision-Language Planning and Closed-Loop Control for Robust Bimanual Robotic Manipulation},
+      author={Chen, Wei and Wu, Haiwen and Wang, Gang and Meng, Qiwei and Wen, Youpeng and Jiang, Taoran and Chen, Xieyuanli and Liu, Yunhui},
+      booktitle={In Proc. of the 2026 IEEE 20th International Conference on Control \& Automation (ICCA)},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11618061" class="pub-link">[PDF]</a>
+   </div>
+   
+   *2026 IEEE 20th International Conference on Control & Automation **(ICCA)***
+  
+   Wei Chen, Haiwen Wu, Gang Wang, Qiwei Meng, Youpeng Wen, Taoran Jiang, **<u>Xieyuanli Chen</u>**, Yunhui Liu
 
    
 ##  2025
