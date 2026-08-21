@@ -476,6 +476,29 @@
   
    Shuhao Kang, Youqi Liao, Peijie Wang, Wenlong Liao, Qilin Zhang, Benjamin Busam, **<u>Xieyuanli Chen</u>**, Yun Liu
 
+- [LAG-IO: Multi-IMU State Estimation for Legged Robots Using Factor Graphs](https://github.com/nubot-nudt/LAG-IO)
+   <div class="pub-links">
+   <details class="bibtex-details">
+     <summary class="bibtex-button">[BibTeX]</summary>
+     <div class="bibtex-block">
+       <pre><code>@inproceedings{zhou2026iros,
+      title={LAG-IO: Multi-IMU State Estimation for Legged Robots Using Factor Graphs},
+      author={Zhou, Yicheng and Chen, Longwen and Yu, Qinghua and Xiao, Junhao and Lu, Huimin and Chen, Xieyuanli},
+      booktitle={In Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+      year={2026}
+    }</code></pre>
+   </div>
+   </details>
+   <a href="https://github.com/nubot-nudt/LAG-IO" class="pub-link">[PDF]</a>
+   <a href="https://github.com/nubot-nudt/LAG-IO">
+    <img src="https://img.shields.io/github/stars/nubot-nudt/LAG-IO?style=social&label=Code+Stars" alt="GitHub stars">
+    </a>
+   </div>
+   
+   *IEEE/RSJ International Conference on Intelligent Robots and Systems **(IROS)***
+
+  Yicheng Zhou, Longwen Chen, Qinghua Yu, Junhao Xiao, Huimin Lu, **<u>Xieyuanli Chen</u>**
+
 - [GeoLoco: Leveraging 3D Geometric Priors from Visual Foundation Model for Robust RGB-Only Humanoid Locomotion](https://arxiv.org/abs/2603.07624)
    <div class="pub-links">
    <details class="bibtex-details">
